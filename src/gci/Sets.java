@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Sets {
     public void mycode(){
-        String [] students={"John","Paul","Adam","Paul"};
+        String [] students={"John","Paul","Adam","Paul","Aaron"};
         List<String> mylist = Arrays.asList(students);
         System.out.printf("%s",mylist);
         System.out.println();
