@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="987d49ab-e5bf-4aff-9375-b24c6220498f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XkdIHCnjD7vAdBhZrUaH4MVV9O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.Mainx">
+    <configuration name="GCIMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myproject.GCIMain" />
+      <module name="gsoc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myproject.Launcher" />
+      <module name="gsoc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gsoc.Main" />
+      <module name="gsoc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gsoc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mainx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gci.Mainx" />
+      <module name="gsoc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Mainx" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.GCIMain" />
+        <item itemvalue="Application.Launcher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="987d49ab-e5bf-4aff-9375-b24c6220498f" name="Default Changelist" comment="" />
+      <created>1581593950038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581593950038</updated>
+      <workItem from="1581593972302" duration="765000" />
+      <workItem from="1581594931681" duration="1931000" />
+      <workItem from="1581616032076" duration="4240000" />
+      <workItem from="1581631019260" duration="130000" />
+      <workItem from="1581878078827" duration="593000" />
+      <workItem from="1581878886656" duration="1050000" />
+      <workItem from="1581895279408" duration="180000" />
+      <workItem from="1581895954724" duration="211000" />
+      <workItem from="1581897811214" duration="473000" />
+      <workItem from="1581898570955" duration="626000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="109" width="374" height="579" key="#com.intellij.ide.util.MemberChooser" timestamp="1581879220243">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="491" y="109" width="374" height="579" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1581879220243" />
+    <state width="1300" height="161" key="GridCell.Tab.0.bottom" timestamp="1581898313578">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1300" height="161" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1581898313578" />
+    <state width="1300" height="161" key="GridCell.Tab.0.center" timestamp="1581898313576">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1300" height="161" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1581898313576" />
+    <state width="1300" height="161" key="GridCell.Tab.0.left" timestamp="1581898313573">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1300" height="161" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1581898313573" />
+    <state width="1300" height="161" key="GridCell.Tab.0.right" timestamp="1581898313577">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1300" height="161" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1581898313577" />
+    <state x="97" y="27" width="1259" height="741" key="SettingsEditor" timestamp="1581879454976">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="97" y="27" width="1259" height="741" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1581879454976" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1581898577537">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1581898577537" />
+  </component>
+</project>
