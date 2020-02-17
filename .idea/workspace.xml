@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="987d49ab-e5bf-4aff-9375-b24c6220498f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/gci/Generic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gsoc/gci/Sets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gsoc/gci/Sets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gci/Sets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gci/Sets.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Sets">
+  <component name="RunManager" selected="Application.Generic">
     <configuration name="GCIMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myproject.GCIMain" />
       <module name="gsoc" />
@@ -50,12 +49,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myproject.Launcher" />
+    <configuration name="Generic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gci.Generic" />
       <module name="gsoc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myproject.*" />
+          <option name="PATTERN" value="gci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Generic" />
         <item itemvalue="Application.Sets" />
         <item itemvalue="Application.Mainx" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.GCIMain" />
-        <item itemvalue="Application.Launcher" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +142,7 @@
       <workItem from="1581895279408" duration="180000" />
       <workItem from="1581895954724" duration="211000" />
       <workItem from="1581897811214" duration="473000" />
-      <workItem from="1581898570955" duration="2722000" />
+      <workItem from="1581898570955" duration="4034000" />
     </task>
     <servers />
   </component>
